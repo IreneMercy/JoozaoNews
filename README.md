@@ -23,8 +23,9 @@
 ### Dependencies
 ##### NewsApi
 
-License
-MIT License
+### License
+##### MIT License
+
 Copyright
 Irene Mercy Oyoo
 Contact
