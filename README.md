@@ -26,7 +26,7 @@
 ### License
 ##### MIT License
 
-Copyright
-Irene Mercy Oyoo
+### Copyright
+##### Irene Mercy Oyoo
 Contact
 irenemercy700@gmail.com
