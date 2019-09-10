@@ -20,10 +20,9 @@
 ##### Python
 ##### Flask
 
-Dependencies
-getpass
-random
-string
+### Dependencies
+##### NewsApi
+
 License
 MIT License
 Copyright
