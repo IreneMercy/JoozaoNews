@@ -16,8 +16,9 @@
 ##### As a user, I would want to see the image, description and the time a news article was created.
 ##### As a user, I would want to click on an article and read the full article on the source website.
 
-Technologies Used
-Python
+### Technologies Used
+##### Python
+##### Flask
 
 Dependencies
 getpass
