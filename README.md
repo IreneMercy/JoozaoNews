@@ -1,11 +1,14 @@
 ### Project Name
 ##### NewsBulletin
+
 ### Project Description
-##### This is a program that allow users to to search for news from different sources, view articles of a specific source and visit the source website .
+##### This is a program that allow users to to search for news from different sources, view articles of a specific source and visit the source website
+.
 ### Author
 ##### Irene Mercy
-Project Setup
-Fork the repository On your terminal run the command git clone "project link" On your terminal, cd Password-Locker On your terminal then run the command code. to open the project on your text editor.
+
+### Project Setup
+##### Fork the repository On your terminal run the command git clone "project link" On your terminal, cd JoozaoNews On your terminal then run the command code. to open the project on your text editor.
 BDD
 As a user, I want to create a password locker account with my details, a login username and password.
 As a user, I want to store my already existing account credentials in the application.
