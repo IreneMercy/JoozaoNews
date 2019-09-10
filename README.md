@@ -1,7 +1,7 @@
 ### Project Name
 ##### NewsBulletin
-Project Description
-This is a program that allow users to manage their credentials, the user can create new credentials or add existing ones .
+### Project Description
+##### This is a program that allow users to to search for news from different sources, view articles of a specific source and visit the source website .
 Author
 Irene Mercy
 Project Setup
