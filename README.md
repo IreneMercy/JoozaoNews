@@ -2,8 +2,8 @@
 ##### NewsBulletin
 ### Project Description
 ##### This is a program that allow users to to search for news from different sources, view articles of a specific source and visit the source website .
-Author
-Irene Mercy
+### Author
+##### Irene Mercy
 Project Setup
 Fork the repository On your terminal run the command git clone "project link" On your terminal, cd Password-Locker On your terminal then run the command code. to open the project on your text editor.
 BDD
