@@ -1,5 +1,4 @@
-### Project Name
-##### NewsBulletin
+### NewsBulletin
 
 ### Project Description
 ##### This is an application that allow users to to search for news from different sources, view articles of a specific source and visit the source website
